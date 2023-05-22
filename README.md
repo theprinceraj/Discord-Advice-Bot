@@ -5,6 +5,7 @@ This bot is written in javascript. It replies with a random advice when its comm
 1. After forking the code, run `npm install` on your console.
 2. Once the installation is completed, place your discord bot token and the prefix that your bot should use in appropriate place inside `config.json.example` file.
 3. Rename `config.json.example` file to `config.json`.
+4. Run `node index.js` on your console.
 
 Your bot should be working now :)
 
